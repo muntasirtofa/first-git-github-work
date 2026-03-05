@@ -1,2 +1,2 @@
 # first-git-github-work
-my first github work
+my first github repository contribution
